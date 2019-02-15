@@ -1,0 +1,59 @@
+
+body {
+	background: teal;
+	
+}
+
+p {
+	font-family: Verdana;
+}
+
+#about {
+	height: 230px;
+	width: 600px;
+	background: #18766a;
+	
+}
+
+#lol{
+	height: 60px;
+	width: 600px;
+	background: #18766a;
+}
+
+#first {
+	height: 200px;
+	width: 600px;
+	background: #266853;
+
+}
+
+#second {
+	height: 270px;
+	width: 600px;
+	background: #266853;
+}
+
+#third{
+	height: 80px;
+	width: 600px;
+	background: #3a9c7d;
+}
+
+#fourth{
+	height: 100px;
+	width: 600px;
+	background: #3a9c7d;
+}
+
+#fifth{
+	height: 130px;
+	width: 600px;
+	background: #3a9c7d;
+}
+
+#sixth{
+	height: 160px;
+	width: 600px;
+	background: #3a9c7d;
+}
